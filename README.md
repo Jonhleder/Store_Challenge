@@ -1,17 +1,17 @@
-Descripción del Proyecto
+#Descripción del Proyecto
 Este proyecto analiza datos de ventas de diferentes tiendas, proporcionando insights sobre:
 
-Ingresos totales por tienda
+-Ingresos totales por tienda
 
-Distribución de productos por categoría
+-Distribución de productos por categoría
 
-Satisfacción de clientes (calificaciones promedio)
+-Satisfacción de clientes (calificaciones promedio)
 
-Productos más y menos vendidos
+-Productos más y menos vendidos
 
-Costos de envío promedio
+-Costos de envío promedio
 
-Estructura del Análisis
+#Estructura del Análisis
 1. Ingresos Totales por Tienda
 Objetivo: Calcular el ingreso total generado por cada tienda
 
