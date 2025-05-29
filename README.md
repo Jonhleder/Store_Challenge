@@ -21,15 +21,3 @@ Análisis comparativo de cuatro tiendas retail (Bogotá, Cali, Medellín y Carta
 | Bogotá    | $45M           | 30%             | $12,500              |
 | Cali      | $38M           | 25%             | $15,200              |
 | Cartagena | $15M           | 10%             | $22,100              |
-
-### ⭐ Satisfacción del Cliente
-![Calificaciones](https://i.imgur.com/calificaciones.png)
-
-### 🏷️ Mix de Productos
-```python
-# Distribución por categoría
-categorias = {
-    'Electrónicos': 45%,  # Bogotá y Cali
-    'Muebles': 30%,      # Medellín
-    'Juguetes': 15%      # Cartagena
-}
